@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massivid_1", "Massivid_1\Massivid_1.csproj", "{950095D0-3890-4F36-952F-77B5C9F78FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950095D0-3890-4F36-952F-77B5C9F78FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950095D0-3890-4F36-952F-77B5C9F78FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950095D0-3890-4F36-952F-77B5C9F78FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950095D0-3890-4F36-952F-77B5C9F78FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B7588B-16E8-4717-B98F-55E5344B6A30}
+	EndGlobalSection
+EndGlobal
